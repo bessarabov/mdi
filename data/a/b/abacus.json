@@ -1,3 +1,6 @@
 {
-    "added_in_version" : "5.9.55"
+    "added_in_version" : "5.9.55",
+    "tags" : [
+        "math"
+    ]
 }

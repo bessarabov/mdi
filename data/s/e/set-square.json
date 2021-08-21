@@ -1,3 +1,6 @@
 {
-    "added_in_version" : "5.2.45"
+    "added_in_version" : "5.2.45",
+    "tags" : [
+        "tool"
+    ]
 }
