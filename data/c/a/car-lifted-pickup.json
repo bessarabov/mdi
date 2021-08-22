@@ -1,3 +1,6 @@
 {
-    "added_in_version" : "5.4.55"
+    "added_in_version" : "5.4.55",
+    "tags" : [
+        "vehicle"
+    ]
 }

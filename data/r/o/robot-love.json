@@ -1,3 +1,6 @@
 {
-    "added_in_version" : "5.8.55"
+    "added_in_version" : "5.8.55",
+    "tags" : [
+        "face"
+    ]
 }
